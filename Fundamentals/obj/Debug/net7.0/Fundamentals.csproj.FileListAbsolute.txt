@@ -1,0 +1,15 @@
+D:\.net\.Net-Training-suju\Fundamentals\bin\Debug\net7.0\Fundamentals.exe
+D:\.net\.Net-Training-suju\Fundamentals\bin\Debug\net7.0\Fundamentals.deps.json
+D:\.net\.Net-Training-suju\Fundamentals\bin\Debug\net7.0\Fundamentals.runtimeconfig.json
+D:\.net\.Net-Training-suju\Fundamentals\bin\Debug\net7.0\Fundamentals.dll
+D:\.net\.Net-Training-suju\Fundamentals\bin\Debug\net7.0\Fundamentals.pdb
+D:\.net\.Net-Training-suju\Fundamentals\obj\Debug\net7.0\Fundamentals.csproj.AssemblyReference.cache
+D:\.net\.Net-Training-suju\Fundamentals\obj\Debug\net7.0\Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\.Net-Training-suju\Fundamentals\obj\Debug\net7.0\Fundamentals.AssemblyInfoInputs.cache
+D:\.net\.Net-Training-suju\Fundamentals\obj\Debug\net7.0\Fundamentals.AssemblyInfo.cs
+D:\.net\.Net-Training-suju\Fundamentals\obj\Debug\net7.0\Fundamentals.csproj.CoreCompileInputs.cache
+D:\.net\.Net-Training-suju\Fundamentals\obj\Debug\net7.0\Fundamentals.dll
+D:\.net\.Net-Training-suju\Fundamentals\obj\Debug\net7.0\refint\Fundamentals.dll
+D:\.net\.Net-Training-suju\Fundamentals\obj\Debug\net7.0\Fundamentals.pdb
+D:\.net\.Net-Training-suju\Fundamentals\obj\Debug\net7.0\Fundamentals.genruntimeconfig.cache
+D:\.net\.Net-Training-suju\Fundamentals\obj\Debug\net7.0\ref\Fundamentals.dll
