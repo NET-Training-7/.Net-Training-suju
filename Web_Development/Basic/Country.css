@@ -1,0 +1,21 @@
+th, td{
+    color: black;
+    font-size: 15px;
+    font-family: 'Times New Roman';
+    border:1px solid;
+    width: 100px;
+    height: 70px;
+    cellpadding:"4";
+    align-items: center;
+    cellspacing:"0";
+    text-align: center;
+    background-color:lightgray;
+
+}
+h1{
+    color: blue;
+    text-decoration: underline;
+}
+table{
+    border:1px solid;
+}
